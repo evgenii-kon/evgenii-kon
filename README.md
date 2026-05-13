@@ -5,7 +5,6 @@
 📅 24 года | 🇷🇺 Россия  
 
 [![Telegram](https://img.shields.io/badge/Telegram-@KondratievEvgenii-26A5E4?logo=telegram)](https://t.me/KondratievEvgenii)
-[![Email](https://img.shields.io/badge/Email-evgenii-kondratiev@mail.ru-D14836?logo=gmail)](mailto:YOUR_EMAIL)
 
 ---
 
